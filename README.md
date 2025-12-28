@@ -1,4 +1,4 @@
-Hey Folks!
+Hey Folks!🗿
 
 I dont learn systems, I break them until they make senses to me.
 
