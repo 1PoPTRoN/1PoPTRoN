@@ -7,15 +7,16 @@ Hackintosh when I feel lazy.
 Open-source enjoyer, low-level curious.
 
 ### 🧠 Stack & Tools
-- OS: **Arch Linux** (btw)
+- OS: **Arch Linux** (btw) and Windows <smtimes, trust me>
 - Langs: `.c` `.bash` `.cpp` `.py` `.asm`
 - Web: `.html` `.css` `.js`
-- Tools: Git, Ghostty
+- Tools: Git, Ghostty, 
 
-### 🧪 Currently messing with
+### 🧪 Messing with
 - Linux internals & kernel concepts
 - Hackintosh EFI tuning (AMD)
 - Performance > aesthetics (btw both matters)
+- College stuff (ik its boring af)
 
 ### 💬 Talk to me about
 - Linux rabbit holes
