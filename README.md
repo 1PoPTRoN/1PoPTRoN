@@ -2,9 +2,9 @@ Hey Folks!
 
 I dont learn systems, I break them until they make senses to me.
 
-Living on Arch Linux. <br>
-Hackintosh when I feel lazy. <br>
-Open-source enjoyer, low-level curious. <br>
+`Living on Arch Linux.` <br>
+`Hackintosh when I feel lazy.` <br>
+`Open-source enjoyer, low-level curious.` <br>
 
 ### > Stack & Tools
 - OS: **Arch Linux** (btw) and Windows <smtimes, trust me>
