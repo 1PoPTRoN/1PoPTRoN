@@ -14,7 +14,7 @@ I dont learn systems, I break them until they make senses to me.
 
 ### > Messing with
 - Linux internals & kernel concepts
-- Hackintosh EFI tuning(AMD) when lazy
+- Hackintosh EFI tuning(AMD) when im lazy
 - Performance > aesthetics (btw both matters)
 - College stuff (ik its boring af)
 
@@ -24,5 +24,5 @@ I dont learn systems, I break them until they make senses to me.
 - Open-source, systems, tooling
 - Why minimal setups hit different
 
-> “If it works, ill optimize it.  
-> If it breaks, ill learn from it.”
+> “If it breaks, ill learn from it.
+> If it works, ill optimize it.”
