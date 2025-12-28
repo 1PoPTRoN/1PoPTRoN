@@ -1,10 +1,9 @@
-Hey Folks!🗿
+Hey Folks!🗿   
+im Arpit Raj, aka p0ptr0n, candidate for Master's in Explorelogy since 2021.
 
-I dont learn systems, I break them until they make senses to me.
-
-`Living on Arch Linux.` <br>
-`Hackintosh when I feel lazy.` <br>
-`Open-source enjoyer, low-level curious.` <br>
+`Living on Arch Linux.`  
+`Hackintosh when I feel lazy.`  
+`Open-source enjoyer, low-level curious.`  
 
 ### > Stack & Tools
 - OS: **Arch Linux** (btw) and Windows <smtimes, trust me>
@@ -15,8 +14,8 @@ I dont learn systems, I break them until they make senses to me.
 ### > Messing with
 - Linux internals & kernel concepts
 - Hackintosh EFI tuning(AMD) when im lazy
-- Performance > aesthetics (btw both matters)
-- College stuff (ik its boring af)
+- Performance > aesthetics (both matters btw)
+- College stuff ( boring af (¬_¬") )
 
 ### > Talk to me about
 - Linux rabbit holes
@@ -24,5 +23,5 @@ I dont learn systems, I break them until they make senses to me.
 - Open-source, systems, tooling
 - Why minimal setups hit different
 
-> “If it breaks, ill learn from it.
-> If it works, ill optimize it.”
+> If it breaks, ill learn from it.  
+> If it works, ill optimize it.
