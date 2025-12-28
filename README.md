@@ -1,16 +1,27 @@
-## Hi there 👋
+Hey Folks!
 
-<!--
-**1PoPTRoN/1PoPTRoN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I don’t learn systems, I break them until they make senses to me.
 
-Here are some ideas to get you started:
+Living on Arch Linux.
+Hackintosh when I feel lazy.
+Open-source enjoyer, low-level curious.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Stack & Tools
+- OS: **Arch Linux** (btw)
+- Langs: `.c` `.bash` `.cpp` `.py` `.asm`
+- Web: `.html` `.css` `.js`
+- Tools: Git, Ghostty
+
+### 🧪 Currently messing with
+- Linux internals & kernel concepts
+- Hackintosh EFI tuning (AMD)
+- Performance > aesthetics (btw both matters)
+
+### 💬 Talk to me about
+- Linux rabbit holes
+- Hackintosh pain & wins
+- Open-source, systems, tooling
+- Why minimal setups hit different
+
+> “If it works, I’ll optimize it.  
+> If it breaks, I’ll learn from it.”
