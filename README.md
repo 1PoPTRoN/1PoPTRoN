@@ -12,7 +12,7 @@ Open-source enjoyer, low-level curious.
 - OS: **Arch Linux** (btw) and Windows <smtimes, trust me>
 - Langs: `.c` `.bash` `.cpp` `.py` `.asm`
 - Web: `.html` `.css` `.js`
-- Tools: Git, Ghostty, 
+- Tools: Git, Ghostty
 
 ### > Messing with
 - Linux internals & kernel concepts
