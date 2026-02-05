@@ -7,7 +7,7 @@ im Arpit Raj, aka p0ptr0n, candidate for Master's in Explorelogy since 2021.
 
 ### > Stack & Tools
 - OS: **Arch Linux** (btw) and **macOS**
-- Langs: `.c` `.bash` `.cpp` `.py` `.asm`
+- Langs: `.c` `.bash` `.cpp` `.py` `.asm` `.go`
 - Webs: `.html` `.css` `.js`
 - Tools: `Git`, `Ghostty`
 
