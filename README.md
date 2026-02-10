@@ -15,7 +15,7 @@ im Arpit Raj, aka p0ptr0n, candidate for Master's in Explorelogy since 2021.
 - Linux internals & kernel concepts
 - Hackintosh EFI tuning(AMD) when im lazy
 - Performance > aesthetics (both matters btw)
-- College stuff ( boring af (¬_¬") )
+- College stuff
 
 ### > Talk to me about
 - Linux rabbit holes
