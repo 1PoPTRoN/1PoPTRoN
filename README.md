@@ -7,8 +7,8 @@ I'm **Arpit Raj**, aka **p0ptr0n**, candidate for a Master's in Explorelogy sinc
 `Open-source enjoyer, low-level curious.`
 
 ### > Currently
-- Contributing to **CNCF** chaos engineering with **[krkn-chaos](https://github.com/krkn-chaos)**
-- Exploring **[NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw)** open-source projects
+- Contributing to **CNCF** chaos engineering with **[krkn-chaos](https://github.com/pulls?q=is%3Amerged+is%3Apr+author%3A1PoPTRoN+archived%3Afalse+org%3Akrkn-chaos)**
+- Exploring **[NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw/pulls?q=is%3Apr+is%3Amerged+author%3A1PoPTRoN+)** open-source projects
 
 ### > Stack & Tools
 - **OS:** `Arch Linux` (btw) & `macOS`
