@@ -3,7 +3,7 @@
 I'm **Arpit Raj**, aka **p0ptr0n**, candidate for a Master's in Explorelogy since 2021.
 
 `Living on Arch Linux.`  
-`Hackintosh when I feel lazy.`  
+`Explore when I feel lazy.`  
 `Open-source enjoyer, low-level curious.`
 
 ### > Currently
@@ -14,7 +14,7 @@ I'm **Arpit Raj**, aka **p0ptr0n**, candidate for a Master's in Explorelogy sinc
 - **OS:** `Arch Linux` (btw) & `macOS`
 - **Langs:** `.c` `.bash` `.cpp` `.py` `.asm` `.go` `.rs` `.java`
 - **Web:** `.html` `.css` `.js`
-- **Tools:** `Git`, `Ghostty`
+- **Tools:** `Git` `Ghostty` `ClaudeCode` `HermesAgent` `Odysseus`
 
 ### > Talk to me about
 - Linux rabbit holes
